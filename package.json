@@ -1,0 +1,25 @@
+{
+  "name": "wassup",
+  "version": "1.0.0",
+  "description": "Realtime chat application using NodeJs and socket.io",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faizanshaikh12/chat-app.git"
+  },
+  "author": "Faizan Shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faizanshaikh12/chat-app/issues"
+  },
+  "homepage": "https://github.com/Faizanshaikh12/chat-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
